@@ -1,0 +1,5 @@
+*.o
+*.cl.*
+*.jpg
+.DS_Store
+tags
